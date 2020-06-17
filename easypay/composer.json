@@ -1,0 +1,5 @@
+{
+    "name": "jboss/easypay",
+    "minimum-stability": "dev",
+    "require": {}
+}
